@@ -1,0 +1,5 @@
+Nombre : Miguel
+Apellido Paterno : Ruby
+Fecha de Nacimiento : 01/05/1993
+Estado de Procedencia : CDMX :v
+Fondos : 1500
